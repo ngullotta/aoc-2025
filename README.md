@@ -1,3 +1,5 @@
+## Advent of Code 2025
+
                        O                         
                       ***                        
                      **O**                       
@@ -42,3 +44,14 @@
                       ###                        
                   ###########                    
                   ###########
+
+### A song
+
+On the `i`th day of crimbo my true love gave to me:
+
+- Six monkeys patching
+- Five [object Object]s
+- Four C++ friends (but private)
+- Three Go nils
+- Two C void ptrs
+- And a Deno securely dining
