@@ -49,6 +49,7 @@
 
 On the `i`th day of crimbo my true love gave to me:
 
+- Seven `unwrap`ped `Some`things
 - Six monkeys patching
 - Five [object Object]s
 - Four C++ friends (but private)
