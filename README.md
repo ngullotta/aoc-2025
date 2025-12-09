@@ -49,10 +49,17 @@
 
 On the `i`th day of crimbo my true love gave to me:
 
-- Seven `unwrap`ped `Some`things
-- Six monkeys patching
-- Five [object Object]s
-- Four C++ friends (but private)
-- Three Go nils
-- Two C void ptrs
-- And a Deno securely dining
+Nine perl Pearls
+Eight Swift birds
+Seven `unwrap`ped Optionals
+Six Ruby metaprograms
+**FIVE HUNDRED ERRORS**
+Four C++ `friend`s (but `private`)
+Three Go `nil` dereferences
+Two	C `void` ptrs
+And a Deno securely dining
+
+
+## Note
+
+I got filtered on day 8 and had to borrow from an existing solution on 4chan
