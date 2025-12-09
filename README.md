@@ -50,13 +50,21 @@
 On the `i`th day of crimbo my true love gave to me:
 
 Nine perl Pearls
+
 Eight Swift birds
+
 Seven `unwrap`ped Optionals
+
 Six Ruby metaprograms
+
 **FIVE HUNDRED ERRORS**
+
 Four C++ `friend`s (but `private`)
+
 Three Go `nil` dereferences
+
 Two	C `void` ptrs
+
 And a Deno securely dining
 
 
